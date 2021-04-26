@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on Android apps,  
 - 🤔 I’m looking for help with AI and Data Science with Python
 - 💬 Ask me about fresh ideas 
-- 📫 How to reach me: twitter.com/MrMaroonSky | burak.c.dursun@gmail.com
+- 📫 How to reach me: https://twitter.com/MrMaroonSky | burak.c.dursun@gmail.com
