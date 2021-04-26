@@ -7,6 +7,5 @@
 - 🤔 I’m looking for help with AI and Data Science with Python
 - 💬 Ask me about fresh ideas 
 - 📫 How to reach me: 
-- 
 - [(**Twitter**)](https://twitter.com/MrMaroonSky)
 - [(**LinkedIn**)](https://www.linkedin.com/in/burakcemdursun/)
