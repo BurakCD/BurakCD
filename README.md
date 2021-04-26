@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-<!--
-**BurakCD/BurakCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on some green works :) 
 - 🌱 I’m currently learning Java, Android studio, Python
