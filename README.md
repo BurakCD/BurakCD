@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on some green works :) 
 - 🌱 I’m currently learning Java, Android studio, Python
-- 👯 I’m looking to collaborate on Android apps,  
-- 🤔 I’m looking for help with AI and Data Science with Python
+- 👯 I’m looking to collaborate on Android apps,
+- 🤔 I'm looking for a job for my compulsory summer internship 
 - 💬 Ask me about fresh ideas 
 - 📫 How to reach me: 
 - [(**Twitter**)](https://twitter.com/MrMaroonSky)
