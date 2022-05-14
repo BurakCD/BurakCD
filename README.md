@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on some green works :) 
-- 🌱 I’m currently learning Java, Android studio
-- 👯 I’m looking to collaborate on Android apps,
-- 🤔 I'm looking for a job for my compulsory summer internship 
+- 🌱 Learning Java, Android studio
+- 👯 Looking to collaborate on Android apps,
+- 🤔 Looking for a job for my compulsory summer internship too
 - 💬 Ask me about fresh ideas 
 - 📫 How to reach me: 
 - [(**Twitter**)](https://twitter.com/MrMaroonSky)
