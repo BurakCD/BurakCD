@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working on some green works :) 
-- 🌱 Learning Java, Android studio
-- 👯 Looking to collaborate on Android apps,
-- 🤔 Looking for a job for my compulsory summer internship too
-- 💬 Ask me about fresh ideas 
+- 🌱 Learning Java - Kotlin
+- 🤔 Looking for a Android development Job
+- 💬 Ask me about java
+
 - 📫 How to reach me: 
 - [(**Twitter**)](https://twitter.com/MrMaroonSky)
 - [(**LinkedIn**)](https://www.linkedin.com/in/burakcemdursun/)
