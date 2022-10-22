@@ -7,9 +7,9 @@
 - 💬 Ask me about java
 
 - 📫 How to reach me: 
-- [(**Twitter**)](https://twitter.com/MrMaroonSky)
-- [(**LinkedIn**)](https://www.linkedin.com/in/burakcemdursun/)
-- [(**Medium**)](https://medium.com/@burakcemdursun)
+- [**Twitter**](https://twitter.com/MrMaroonSky)
+- [**LinkedIn**](https://www.linkedin.com/in/burakcemdursun/)
+- [**Medium**](https://medium.com/@burakcemdursun)
 
 [![@ethadien's Holopin board](https://holopin.io/api/user/board?user=ethadien)](https://holopin.io/@ethadien)
 
