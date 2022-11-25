@@ -1,11 +1,5 @@
 ### Hello there I'm Burak👋
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="burakcemdursun" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/burakcemdursun?trk=profile-badge">Burak Cem Dursun</a></div>
-              
-
-
 - 🔭 I’m currently working on some green works :) 
 - 🌱 Learning Java - Kotlin
 - 🤔 Looking for a Android development Job
