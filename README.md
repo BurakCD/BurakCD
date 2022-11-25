@@ -1,5 +1,7 @@
 ### Hello there I'm Burak👋
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 - 🔭 I’m currently working on some green works :) 
 - 🌱 Learning Java - Kotlin
