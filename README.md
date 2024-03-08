@@ -1,9 +1,8 @@
 ### Hello there I'm Burak👋
 
-- 🔭 I’m currently working on some green works :) 
+- 🔭 I’m currently working @turna.com
 - 🌱 Learning Java - Kotlin
-- 🤔 Looking for a Android development Job
-- 💬 Ask me about java
+- 💬 Ask me about system management-network
 
 - 📫 How to reach me: 
 - [**Twitter**](https://twitter.com/MrMaroonSky)
