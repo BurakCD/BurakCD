@@ -1,7 +1,7 @@
 ### Hello there I'm Burak👋
 
 - 🔭 I’m currently working @turna.com
-- 🌱 Learning Java - Kotlin
+- 🌱 Learning Python - Bash
 - 💬 Ask me about system management-network
 
 - 📫 How to reach me: 
